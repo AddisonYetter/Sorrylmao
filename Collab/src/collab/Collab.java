@@ -16,6 +16,7 @@ public class Collab {
      */
     public static void main(String[] args) {
         System.out.println("Hi my name is addison");
+        System.out.println("Hi my name is mitchell");
     }
     
 }
